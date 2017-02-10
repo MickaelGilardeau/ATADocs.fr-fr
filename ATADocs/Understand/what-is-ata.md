@@ -33,7 +33,7 @@ ATA peut recevoir des événements et des journaux des éléments suivants :
 -   Intégration SIEM
 -   Windows Event Forwarding (WEF)
 
-En outre, ATA s’appuie sur un moteur d’analyse réseau propriétaire pour capturer et analyser le trafic réseau de plusieurs protocoles (tels que Kerberos, DNS, RPC, NTLM et autres) pou l’authentification, l’autorisation et la collecte d’informations. Ces informations sont recueillies par ATA par le biais de :
+En outre, ATA s’appuie sur un moteur d’analyse réseau propriétaire pour capturer et analyser le trafic réseau de plusieurs protocoles (tels que Kerberos, DNS, RPC, NTLM et autres) pour l’authentification, l’autorisation et la collecte d’informations. Ces informations sont recueillies par ATA par le biais de :
 
 -   La mise en miroir des ports des contrôleurs de domaine et serveurs DNS vers la passerelle ATA
 -   Le déploiement d’une passerelle légère ATA directement sur les contrôleurs de domaine
